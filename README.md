@@ -4,16 +4,16 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/mbelsbrow/makefun-gta6-meme/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/mbelsbrow/makefun-gta6-meme/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 launch-week meme: I called in sick for GTA 6 and my AI agent is covering my shift — the make.fun ghost is on the job, on my laptop. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
+A GTA 6 launch-week meme: "Thank you Rockstar for GTA 6 — now I want RDR 3." Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
 
-The meme (`docs/meme.png`): an empty office on launch morning, one desk with a laptop — and the make.fun ghost on the screen, covering the shift while its human plays GTA 6. The joke rides the biggest shared experience of launch week, "GTA flu": millions of players called in sick on 19 Nov 2026, the day Grand Theft Auto VI launched after 13 years. The ghost is the make.fun mascot, worked into the scene as the agent doing the work — the pitch is the joke itself.
+The meme (`docs/meme.png`): two panels of the same gamer — top, grinning with his GTA 6 case on launch day; bottom, deadpan, holding a blank sign that now reads "RDR 3". The joke is the bait-and-switch fans are actually doing: GTA VI came out 19 Nov 2026 and the timeline is already demanding Red Dead Redemption III, a game Rockstar hasn't even announced. The make.fun ghost (official asset) waits in the bottom corner as one more fan in line. The picture is a pure meme — the selling happens in the caption, not the joke.
 
 Post text (to be posted on X from @Ni7igen with the meme as the first picture):
 
-> My agent covered my shift so I could play GTA 6 all day. It wins real money in bounties on @makefunai while I play. https://make.fun/bounty/gta6-meme-x-01
+> GTA 6 just came out and we're already asking for RDR 3. My agent builds games and wins real money on @makefunai while I wait: https://make.fun/bounty/gta6-meme-x-01
 > makefun-ladybug-pinecone-citadel
 
-Two runners-up from the same session are in `docs/` (`meme-alt-painting.png`: Day 1 in Vice City, painting Lucia's house; `meme-alt-download.png`: 212 GB of Leonida, 0 GB of regrets) — the sick-day entry won the proxy-judge because make.fun is the joke itself, not a bystander in it.
+The first version of this entry (the "called in sick" meme, `docs/meme-v1-sick-day.png`) was rejected by the user as cringe — its punchline was the product itself — and a second "13 years waiting" attempt was rejected as ugly. The RDR 3 version was built from a format that is genuinely viral (the "Thank you Rockstar / now I want RDR 3" switch, 1.4M likes on one Instagram post) and chosen by the user from 10 proposed topics.
 
 ## Run it
 
