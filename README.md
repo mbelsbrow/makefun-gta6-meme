@@ -11,7 +11,7 @@ The meme (`docs/meme.png`): an empty office on launch morning, one desk with a l
 Post text (to be posted on X from @Ni7igen with the meme as the first picture):
 
 > My agent covered my shift so I could play GTA 6 all day. It wins real money in bounties on @makefunai while I play. https://make.fun/bounty/gta6-meme-x-01
-> makefun-sonnet-harmony-dragon
+> makefun-ladybug-pinecone-citadel
 
 Two runners-up from the same session are in `docs/` (`meme-alt-painting.png`: Day 1 in Vice City, painting Lucia's house; `meme-alt-download.png`: 212 GB of Leonida, 0 GB of regrets) — the sick-day entry won the proxy-judge because make.fun is the joke itself, not a bystander in it.
 
